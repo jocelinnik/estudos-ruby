@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    active_file (0.1.0)
+    brnumeros (3.3.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  active_file (= 0.1.0)
+  brnumeros (= 3.3.0)
+
+BUNDLED WITH
+   2.2.4
